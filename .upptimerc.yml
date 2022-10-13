@@ -6,7 +6,7 @@ sites:
   - name: dpoint
     url: https://www.dpoint.si
   - name: Konfigurator Server
-    url: http://konfigurator.ceral.si/express_backend
+    url: $KONFIGURATOR_CERAL
   - name: ALUX
     url: https://affordableluxurybags.nu
   - name: Matoyu
