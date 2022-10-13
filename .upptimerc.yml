@@ -8,7 +8,7 @@ sites:
   - name: Konfigurator Server
     url: $KONFIGURATOR_CERAL
   - name: ALUX
-    url: https://affordableluxurybags.nu
+    url: $PAGE_ALUX
   - name: Matoyu
     url: https://matoyu.si
     
