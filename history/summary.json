@@ -4,10 +4,10 @@
     "url": "https://www.dpoint.si",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpoint.si.ico",
     "slug": "dpoint",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1948,
@@ -15,25 +15,28 @@
     "timeWeek": 1693,
     "timeMonth": 1912,
     "timeYear": 1948,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-12-07": 1
+    }
   },
   {
     "name": "Konfigurator Server",
     "url": "$KONFIGURATOR_CERAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "konfigurator-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 613,
-    "timeDay": 341,
-    "timeWeek": 718,
-    "timeMonth": 693,
-    "timeYear": 613,
+    "time": 612,
+    "timeDay": 425,
+    "timeWeek": 692,
+    "timeMonth": 687,
+    "timeYear": 612,
     "dailyMinutesDown": {
+      "2022-12-07": 1,
       "2022-10-22": 24
     }
   },
@@ -60,18 +63,19 @@
     "url": "https://matoyu.si",
     "icon": "https://icons.duckduckgo.com/ip3/matoyu.si.ico",
     "slug": "matoyu",
-    "status": "up",
-    "uptime": "99.82%",
+    "status": "down",
+    "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.82%",
+    "uptimeYear": "99.83%",
     "time": 1482,
     "timeDay": 1152,
     "timeWeek": 1598,
     "timeMonth": 1476,
     "timeYear": 1482,
     "dailyMinutesDown": {
+      "2022-12-07": 0,
       "2022-11-02": 137
     }
   }
