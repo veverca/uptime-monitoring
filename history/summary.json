@@ -4,19 +4,19 @@
     "url": "https://www.dpoint.si",
     "icon": "https://icons.duckduckgo.com/ip3/www.dpoint.si.ico",
     "slug": "dpoint",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 1961,
-    "timeDay": 1718,
-    "timeWeek": 1729,
+    "timeDay": 1867,
+    "timeWeek": 1761,
     "timeMonth": 2009,
     "timeYear": 1961,
     "dailyMinutesDown": {
-      "2023-01-08": 0
+      "2023-01-08": 8
     }
   },
   {
