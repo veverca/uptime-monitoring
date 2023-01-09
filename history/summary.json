@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.dpoint.si.ico",
     "slug": "dpoint",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1961,
-    "timeDay": 1867,
-    "timeWeek": 1761,
-    "timeMonth": 2009,
-    "timeYear": 1961,
-    "dailyMinutesDown": {
-      "2023-01-08": 8
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1959,
+    "timeDay": 1908,
+    "timeWeek": 1730,
+    "timeMonth": 2004,
+    "timeYear": 1959,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Konfigurator Server",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 636,
-    "timeDay": 538,
-    "timeWeek": 614,
+    "time": 635,
+    "timeDay": 567,
+    "timeWeek": 607,
     "timeMonth": 687,
-    "timeYear": 636,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2022-10-22": 24
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1257,
-    "timeWeek": 1340,
-    "timeMonth": 1478,
-    "timeYear": 1369,
+    "time": 1366,
+    "timeDay": 1127,
+    "timeWeek": 1254,
+    "timeMonth": 1464,
+    "timeYear": 1366,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.89%",
-    "time": 1813,
-    "timeDay": 1462,
-    "timeWeek": 1360,
-    "timeMonth": 2522,
-    "timeYear": 1813,
+    "time": 1811,
+    "timeDay": 1572,
+    "timeWeek": 1345,
+    "timeMonth": 2516,
+    "timeYear": 1811,
     "dailyMinutesDown": {
       "2022-11-02": 137
     }
